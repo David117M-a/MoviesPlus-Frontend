@@ -1,0 +1,7 @@
+.movies-wrapper {
+    padding-left: 5rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
