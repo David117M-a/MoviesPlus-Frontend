@@ -2,7 +2,7 @@
 
 The frontend for MoviesPlus, a web application that allows you to manage and explore a collection of movies. This project enables you to view all movies, filter them by title, genre, and actor, register new movies, and add cover photos.
 
-![Movies](https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif)
+![Movies](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHE3YTUycGZhNG93ZjdqZWk1ODFxZzNxb2RlaHJybHR0aDZhcDhybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l6mBchxYZc7Sw/giphy.gif)
 
 ## 🌟 Functionalities
 
@@ -20,7 +20,6 @@ The frontend for MoviesPlus, a web application that allows you to manage and exp
     ```bash
     git clone https://github.com/David117M-a/MoviesPlus-Frontend.git
     ```
-    ![Cloning](https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif)
 
 2. **Open the Project**:
     - Open the project with [Visual Studio Code](https://code.visualstudio.com/).
@@ -30,7 +29,6 @@ The frontend for MoviesPlus, a web application that allows you to manage and exp
     ```bash
     npm install
     ```
-    ![Installing](https://media.giphy.com/media/l0HlA2Y7GhM6I6tJu/giphy.gif)
 
 4. **Configure Environment Variables**:
     - Open the `.env` file and ensure that the `REACT_APP_API_URL` is set to the same port used by your backend:
@@ -45,7 +43,6 @@ The frontend for MoviesPlus, a web application that allows you to manage and exp
     ```
     - The application should be running at [http://localhost:3000](http://localhost:3000). Open this URL in your browser to start using the app!
 
-![Running](https://media.giphy.com/media/l0HlA2Y7GhM6I6tJu/giphy.gif)
 
 ## 🤝 Contributing
 
